@@ -24,7 +24,7 @@ public class DAO {
 	private String user = "root";
 	
 	/** The password. */
-	private String password = "arthur741852A";
+	private String password = "Dba@123456";
 
 	/**
 	 * Conectar.
